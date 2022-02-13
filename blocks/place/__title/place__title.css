@@ -1,0 +1,30 @@
+.place__title {
+    margin: 0;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 1.056;
+    color: #FFFFFF;
+    grid-column: 1;
+    grid-row: 1;
+}
+
+@media screen and (max-width:952px) {
+    .place__title {
+        font-size: 42px;
+        line-height: 1.09;
+        padding-right: 10px;
+    
+    }
+}
+
+@media screen and (max-width:426px) {
+    .place__title {
+        font-size: 32px;
+        line-height: 1.09;
+        padding: 0 16px;
+        align-self: flex-start;
+        order: 1;
+    }
+}

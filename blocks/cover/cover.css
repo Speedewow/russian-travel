@@ -1,0 +1,5 @@
+.cover {
+    margin: 0 auto;
+    max-width: calc(1280px - 2*48px);
+    width: 100%;
+}
