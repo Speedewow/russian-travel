@@ -15,4 +15,4 @@
 
 **Где меня найти?**
 
-* [Ссылка на проект]https://github.com/Speedewow/Russian-travel
+* [Ссылка на проект]https://speedewow.github.io/russian-travel/
